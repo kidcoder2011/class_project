@@ -1,0 +1,80 @@
+.head{
+    background-color: blue;
+    border-radius: 50px;
+    margin-top: 0px;
+}
+.title{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 194, 82);
+    margin-top: 0px;
+}
+body{
+    background-color: rgb(255, 194, 82);
+}
+.note_button,
+.Class_test,
+.homework_button
+{
+    width: 250px;
+    height: 100px;
+    border-radius: 50px;
+    font-size: 25px;
+    background-color: orange;
+    color:blue;
+    border-color: orange;
+    transition: box-shadow 0.15s;
+    margin-left: 315px;
+    margin-right: 315px;
+}
+.note_button:hover,
+.Class_test:hover,
+.homework_button:hover,
+.english:hover,
+.telugu:hover,
+.hindi:hover,
+.maths:hover,
+.social:hover,
+.science:hover
+{
+    box-shadow: 10px 10px 10px blue;
+}
+.english,
+.telugu,
+.hindi,
+.maths,
+.social,
+.science{
+    width: 200px;
+    height: 100px;
+    font-size: 25px;
+    background-color: orange;
+    color:blue;
+    border-color: orange;
+    transition: box-shadow 0.15s;
+    margin-left: 315px;
+    margin-right: 315px;
+    margin-bottom: 315px;
+}
+.note{
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+}
+.back{
+    border-radius: 500px;
+    float: left;
+    font-size: 100px;
+    background-color: red;
+    width: 200px;
+    height: 150px;
+
+}
+.Homework_table{
+    width:100%;
+    height: 100%;
+    font-size: 100px;
+}
+.homework_page{
+    background-color: rgb(255, 194, 82);
+}
