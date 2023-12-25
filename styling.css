@@ -82,6 +82,7 @@ body{
     background-image: url(bgi.png) !important;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: transparent !important;
 }
 .searchbox{
     display:inline-block;
