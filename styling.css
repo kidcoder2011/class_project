@@ -79,7 +79,7 @@ body{
     background-color: rgb(255, 194, 82);
 }
 .sign_in_page{
-    background-image: url(bgi.png);
+    background-image: url(bgi.png) !important;
     background-repeat: no-repeat;
     background-size: cover;
 }
